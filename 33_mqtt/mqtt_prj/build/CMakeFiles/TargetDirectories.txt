@@ -1,0 +1,3 @@
+/home/alientek/vscode_ws/mqtt_prj/build/CMakeFiles/rebuild_cache.dir
+/home/alientek/vscode_ws/mqtt_prj/build/CMakeFiles/edit_cache.dir
+/home/alientek/vscode_ws/mqtt_prj/build/CMakeFiles/mqttClient.dir
